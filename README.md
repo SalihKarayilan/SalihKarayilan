@@ -1,12 +1,43 @@
-- 👋 Hi, I’m @SalihKarayilan
-- 👀 I’m interested in data
-- 🌱 I’m currently learning data manipulating, data visualization, MSSQL Server, Power BI and Tableau
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2 align="left">Hi 👋! My name is Salih and I'm a data enthusiat.</h2>
 
-<!---
-SalihKarayilan/SalihKarayilan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<p align="left">Hello, I am Salih Karayılan.<br>I am a Electrical and Electronics Engineer. <br>I am improving myself in data analysis</p>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="34" alt="linkedin logo"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media.wired.com/photos/641337bd5e3ab3be4fe3e789/master/w_1600,c_limit/sql_normal.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="41" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="41" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="41" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="41" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="41" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/r/276DC3" height="41" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="41" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="41" alt="azure logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SalihKarayilan/SalihKarayilan/output/snake.svg" alt="Snake animation" />
+
+###
