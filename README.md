@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="34" alt="linkedin logo"  />
+  <img src="https://www.linkedin.com/in/salih-karayilan-464a58191/" width="46" height="34" alt="linkedin logo"  />
 </div>
 
 ###
