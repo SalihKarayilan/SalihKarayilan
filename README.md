@@ -6,9 +6,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://www.linkedin.com/in/salih-karayilan-464a58191/" width="46" height="34" alt="linkedin logo"  />
-</div>
+
 
 ###
 
@@ -36,8 +34,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/SalihKarayilan/SalihKarayilan/output/snake.yml" alt="Snake animation" />
 
 ###
