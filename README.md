@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, I am Salih Karayılan.<br>I am a Electrical and Electronics Engineer. <br>I am improving myself in data analysis</p>
+<p align="left">I graduated at Marmara University, Faculty of Technology, Department of Electrical and Electronics Engineering. I am interested in data manipulation,data visualization, MSSQL Server, Power BI.</p>
 
 ###
 
